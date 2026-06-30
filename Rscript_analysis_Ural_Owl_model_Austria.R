@@ -18,9 +18,7 @@
   library("spatstat")}
 
 # load path variable
-path <- "C:/Users/mett_meister/seadrive_root/Matthias/Meine Bibliotheken/Habichtskauz - Resubmission/"
-path <- "C:/Users/floriankunz/seadrive_root/Florian_1/Für mich freigegeben/Habichtskauz - Resubmission/"
-path <- "D:/floriankunz/seadrive_root/Florian_1/Für mich freigegeben/Habichtskauz - Resubmission/"
+path <- "YOUR_PATH"
 
 # load helper function
 source(paste0(path, "/Rfunction_extract.by.mask.R")) # see other Github repository
