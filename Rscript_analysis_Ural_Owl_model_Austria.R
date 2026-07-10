@@ -3,9 +3,7 @@
 # *************************************************************
 # authors: Florian Kunz; Matthias Amon
 # last changed: 06.2026 by FK, added chapter six parts on territories
-# script corresponds to publication: XXX [will be added as soon as accepted]
-
-# How to cite: [will be added as soon as accepted]
+# script to the publication
 
 {library("dplyr")
   library("readxl")
